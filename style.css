@@ -3,6 +3,7 @@ body {
 }
 
 h1 {
+    text-align: center;
     font-size: 72px;
     color: red;
 }
@@ -12,3 +13,16 @@ h1 {
       background-color: orange;
     }
    }
+#links {
+    text-align: center;
+    margin: 20px;
+}
+#boot {
+    margin-right: 25px;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
