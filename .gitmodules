@@ -1,0 +1,3 @@
+[submodule "liri-node-app"]
+	path = liri-node-app
+	url = https://github.com/sweedishhfish04/liri-node-app.git
