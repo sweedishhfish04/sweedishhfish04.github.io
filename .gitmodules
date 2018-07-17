@@ -1,3 +1,24 @@
 [submodule "liri-node-app"]
 	path = liri-node-app
 	url = https://github.com/sweedishhfish04/liri-node-app.git
+[submodule "team6proj1"]
+	path = team6proj1
+	url = https://github.com/timsmith78/team6proj1.git
+[submodule "GifTastic"]
+	path = GifTastic
+	url = https://github.com/sweedishhfish04/GifTastic.git
+[submodule "Responsive-Portfolio"]
+	path = Responsive-Portfolio
+	url = https://github.com/sweedishhfish04/Responsive-Portfolio.git
+[submodule "train-scheduler"]
+	path = train-scheduler
+	url = https://github.com/sweedishhfish04/train-scheduler.git
+[submodule "unit-4-game"]
+	path = unit-4-game
+	url = https://github.com/sweedishhfish04/unit-4-game.git
+[submodule "TriviaGame"]
+	path = TriviaGame
+	url = https://github.com/sweedishhfish04/TriviaGame.git
+[submodule "Bootstrap-Portfolio"]
+	path = Bootstrap-Portfolio
+	url = https://github.com/sweedishhfish04/Bootstrap-Portfolio.git
