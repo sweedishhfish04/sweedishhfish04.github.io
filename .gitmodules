@@ -25,3 +25,6 @@
 [submodule "bamazon"]
 	path = bamazon
 	url = https://github.com/sweedishhfish04/bamazon
+[submodule "project_2"]
+	path = project_2
+	url = https://github.com/sweedishhfish04/project_2.git
