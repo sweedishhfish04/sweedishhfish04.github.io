@@ -28,3 +28,6 @@
 [submodule "project_2"]
 	path = project_2
 	url = https://github.com/sweedishhfish04/project_2.git
+[submodule "wordGuess"]
+	path = wordGuess
+	url = https://github.com/sweedishhfish04/wordGuess.git

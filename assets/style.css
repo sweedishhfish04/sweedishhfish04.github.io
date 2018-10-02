@@ -1,5 +1,6 @@
 body {
     background: lightgrey;
+    background: url("images/background.jpeg");
 }
 
 h1 {
@@ -7,18 +8,29 @@ h1 {
     font-size: 72px;
     color: red;
 }
+
+.container {
+    background: slategray;
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+    clear: both;
+}
+
 #links {
+    color: navy;
     text-align: center;
     margin: 20px;
     font-size: 36px;
 }
+
 #boot {
     margin-right: 25px;
 }
+
 img {
     margin-top: 50px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    display: inline-block;
+    margin-bottom: 20px;
     width: 25%;
 }
